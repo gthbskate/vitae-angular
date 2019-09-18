@@ -1,0 +1,174 @@
+@media screen and (min-width: 993px) {
+    body {
+      margin: 0px !important;
+      padding: 0px !important; }
+  
+    #courses {
+      background-color: #FAFFFD; }
+  
+    .text-courses-principal {
+      font-family: 'Raleway', sans-serif;
+      font-size: 5.5em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #2195F2;
+      padding-bottom: .5em;
+      color: #2195F2; }
+  
+    .text-courses-principal-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 1em;
+      font-weight: bold;
+      color: #2195F2; }
+  
+    .card-courses {
+      background-color: #FA824C !important;
+      width: 22vw;
+      height: 200px; }
+  
+    .card-title-courses {
+      font-family: 'Roboto Condensed', sans-serif !important;
+      font-size: 1.5em !important;
+      text-align: center !important;
+      padding-top: 1em; }
+  
+    .text-courses-p {
+      font-family: 'Raleway', sans-serif !important;
+      font-size: .7em !important;
+      text-align: center !important;
+      position: absolute !important;
+      bottom: 30% !important; }
+  
+    .icon-courses {
+      color: #577399; }
+  
+    .tex-card-date {
+      font-family: 'Roboto Condensed', sans-serif !important;
+      font-size: 1em !important;
+      text-align: center !important;
+      color: #FAFFFD !important;
+      position: absolute !important;
+      bottom: 0px !important; }
+  
+    .text-date-course {
+      margin: 0px 0px 0px 0px !important; }
+  
+    .card-content {
+      justify-content: center !important;
+      align-items: center !important; } }
+  @media screen and (min-width: 768px) and (max-width: 992px) {
+    body {
+      margin: 0px !important;
+      padding: 0px !important; }
+  
+    #courses {
+      background-color: #FAFFFD; }
+  
+    .text-courses-principal {
+      font-family: 'Raleway', sans-serif;
+      font-size: 4em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #2195F2;
+      padding-bottom: .5em;
+      color: #2195F2; }
+  
+    .text-courses-principal-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 1em;
+      font-weight: bold;
+      color: #2195F2; }
+  
+    .card-courses {
+      background-color: #FA824C !important;
+      width: 30vw;
+      height: 200px; }
+  
+    .card-title-courses {
+      font-family: 'Roboto Condensed', sans-serif !important;
+      font-size: 1.5em !important;
+      text-align: center !important;
+      padding-top: 1em; }
+  
+    .text-courses-p {
+      font-family: 'Raleway', sans-serif !important;
+      font-size: .7em !important;
+      text-align: center !important;
+      position: absolute !important;
+      bottom: 30% !important; }
+  
+    .icon-courses {
+      color: #577399; }
+  
+    .tex-card-date {
+      font-family: 'Roboto Condensed', sans-serif !important;
+      font-size: 1em !important;
+      text-align: center !important;
+      color: #FAFFFD !important;
+      position: absolute !important;
+      bottom: 0px !important; }
+  
+    .text-date-course {
+      margin: 0px 0px 0px 0px !important; }
+  
+    .card-content {
+      justify-content: center !important;
+      align-items: center !important; } }
+  @media screen and (max-width: 767px) {
+    body {
+      margin: 0px !important;
+      padding: 0px !important; }
+  
+    #courses {
+      background-color: #FAFFFD; }
+  
+    .text-courses-principal {
+      font-family: 'Raleway', sans-serif;
+      font-size: 2.3em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #2195F2;
+      padding-bottom: .5em;
+      color: #2195F2; }
+  
+    .text-courses-principal-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 1em;
+      font-weight: bold;
+      color: #2195F2; }
+  
+    .card-courses {
+      background-color: #FA824C !important;
+      width: 92vw;
+      height: 150px; }
+  
+    .card-title-courses {
+      font-family: 'Roboto Condensed', sans-serif !important;
+      font-size: 1.5em !important;
+      text-align: center !important;
+      padding-top: 1em; }
+  
+    .text-courses-p {
+      font-family: 'Raleway', sans-serif !important;
+      font-size: .7em !important;
+      text-align: center !important;
+      position: absolute !important;
+      bottom: 30% !important; }
+  
+    .icon-courses {
+      color: #577399; }
+  
+    .tex-card-date {
+      font-family: 'Roboto Condensed', sans-serif !important;
+      font-size: 1em !important;
+      text-align: center !important;
+      color: #FAFFFD !important;
+      position: absolute !important;
+      bottom: 0px !important; }
+  
+    .text-date-course {
+      margin: 0px 0px 0px 0px !important; }
+  
+    .card-content {
+      justify-content: center !important;
+      align-items: center !important; } }

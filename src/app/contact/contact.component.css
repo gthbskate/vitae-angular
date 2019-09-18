@@ -1,0 +1,165 @@
+@media screen and (min-width: 993px) {
+    body {
+      margin: 0px !important;
+      padding: 0px !important; }
+  
+    #contact {
+      background-color: #577399;
+      margin: 0px !important;
+      padding: 0px !important;
+      height: 100%; }
+  
+    .text-contact-principal {
+      font-family: 'Raleway', sans-serif;
+      font-size: 5.5em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #FAFFFD;
+      padding-bottom: .5em;
+      color: #FAFFFD; }
+  
+    .text-contact-principal-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 1em;
+      font-weight: bold; }
+  
+    .row-container-text-contact {
+      width: 30em;
+      height: 100%; }
+  
+    .col-container-text-contact {
+      border: 1px solid #342E37;
+      border-radius: 5px;
+      box-shadow: 5px 10px 5px 5px #342E37;
+      text-align: center;
+      background-color: #FAFFFD; }
+  
+    .item-contact {
+      font-size: 40px; }
+  
+    .text-contact-h6 {
+      font-family: 'Raleway', sans-serif;
+      font-size: 1em;
+      font-weight: normal;
+      text-align: center;
+      color: #342E37; }
+  
+    .text-contact-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-weight: bold; }
+  
+    .text-contact-p {
+      font-family: 'Raleway', sans-serif;
+      font-size: 1.5em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #2195F2;
+      color: #2195F2; } }
+  @media screen and (min-width: 768px) and (max-width: 992px) {
+    body {
+      margin: 0px !important;
+      padding: 0px !important; }
+  
+    #contact {
+      background-color: #577399;
+      height: 100%; }
+  
+    .text-contact-principal {
+      font-family: 'Raleway', sans-serif;
+      font-size: 4em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #FAFFFD;
+      padding-bottom: .5em;
+      color: #FAFFFD; }
+  
+    .text-contact-principal-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 1em;
+      font-weight: bold; }
+  
+    .row-container-text-contact {
+      width: 30em; }
+  
+    .col-container-text-contact {
+      border: 1px solid #342E37;
+      border-radius: 5px;
+      box-shadow: 5px 10px 5px 5px #342E37;
+      text-align: center;
+      background-color: #FAFFFD; }
+  
+    .item-contact {
+      font-size: 40px; }
+  
+    .text-contact-h6 {
+      font-family: 'Raleway', sans-serif;
+      font-size: 1em;
+      font-weight: normal;
+      text-align: center;
+      color: #342E37; }
+  
+    .text-contact-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-weight: bold; }
+  
+    .text-contact-p {
+      font-family: 'Raleway', sans-serif;
+      font-size: 1.5em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #2195F2;
+      color: #2195F2; } }
+  @media screen and (max-width: 767px) {
+    body {
+      margin: 0px !important;
+      padding: 0px !important; }
+  
+    #contact {
+      background-color: #577399;
+      height: 100%; }
+  
+    .text-contact-principal {
+      font-family: 'Raleway', sans-serif;
+      font-size: 2.3em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #FAFFFD;
+      padding-bottom: .5em;
+      color: #FAFFFD; }
+  
+    .text-contact-principal-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 1em;
+      font-weight: bold; }
+  
+    .row-container-text-contact {
+      width: 20em; }
+  
+    .col-container-text-contact {
+      border: 1px solid #342E37;
+      border-radius: 5px;
+      box-shadow: 5px 10px 5px 5px #342E37;
+      text-align: center;
+      background-color: #FAFFFD; }
+  
+    .item-contact {
+      font-size: 40px; }
+  
+    .text-contact-h6 {
+      font-family: 'Raleway', sans-serif;
+      font-size: 1em;
+      font-weight: normal;
+      text-align: center;
+      color: #342E37; }
+  
+    .text-contact-span {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-weight: bold; }
+  
+    .text-contact-p {
+      font-family: 'Raleway', sans-serif;
+      font-size: 1.3em;
+      font-weight: normal;
+      text-align: center;
+      border-bottom: 1px solid #2195F2;
+      color: #2195F2; } }

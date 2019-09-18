@@ -1,0 +1,28 @@
+<!-- Header Start -->
+<header>
+    <nav>
+        <div class="nav-wrapper">
+            <a [routerLink]="['/']" class="brand-logo"><i class="material-icons" id="code-icon">apps</i></a>
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li class="text-nav"><a [routerLink]="['/skills']">Habilidades</a></li>
+                <li class="text-nav"><a [routerLink]="['/school']">Estudios</a></li>
+                <li class="text-nav"><a [routerLink]="['/courses']">Cursos</a></li>
+                <li class="text-nav"><a [routerLink]="['/develop']">Desarrollos</a></li>
+                <li class="text-nav"><a [routerLink]="['/experience']">Experiencia</a></li>
+                <li class="text-nav"><a [routerLink]="['/contact']">Contacto</a></li>
+            </ul>
+        </div>
+  </nav>
+
+  <ul class="sidenav" id="mobile-demo">
+    <li class="text-nav"><a [routerLink]="['/skills']">Habilidades<i class="material-icons">done_all</i></a></li>
+    <li class="text-nav"><a [routerLink]="['/school']">Estudios<i class="material-icons">school</i></a></li>
+    <li class="text-nav"><a [routerLink]="['/courses']">Cursos<i class="material-icons">edit</i></a></li>
+    <li class="text-nav"><a [routerLink]="['/develop']">Desarrollos<i class="material-icons">code</i></a></li>
+    <li class="text-nav"><a [routerLink]="['/experience']">Experiencia<i class="material-icons">important_devices</i></a></li>
+    <li class="text-nav"><a [routerLink]="['/contact']">Contacto<i class="material-icons">mail</i></a></li>
+  </ul>
+</header>
+<!-- Header End -->
+
